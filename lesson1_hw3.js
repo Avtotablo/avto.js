@@ -79,3 +79,4 @@ var admin;
 var name = 'Bill Gates';
 admin = name;
 console.log('Admin is: ' + admin);
+//Post factum
