@@ -1,4 +1,4 @@
-
+//Andrii Shvets. Homework 3 (JavaScript. Lesson 1)
 /* Task - 1
 Create a variable with the name of our planet.  */
 let planet;
